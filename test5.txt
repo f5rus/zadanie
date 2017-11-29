@@ -1,0 +1,69 @@
+test 1
+
+plate 1:
+1
+2
+plate 2:
+3
+4
+plate 3:
+5
+6
+plate 4:
+1
+1
+plate 5:
+2
+2
+plate 6:
+5
+5
+plate 7:
+6
+6
+plate 8:
+2
+3
+plate 9:
+4
+5
+plate 10:
+2
+2
+
+count:5
+
+test 2
+
+plate 1:
+1
+2
+plate 2:
+1
+1
+plate 3:
+4
+4
+plate 4:
+6
+6
+plate 5:
+8
+8
+plate 6:
+3
+3
+plate 7:
+4
+4
+plate 8:
+5
+5
+plate 9:
+6
+6
+plate 10:
+7
+7
+count:8
+

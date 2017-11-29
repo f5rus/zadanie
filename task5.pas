@@ -10,7 +10,7 @@ var
 	count : integer;
 	countDividers : integer;
 BEGIN
-	count := 0;
+	count := 0;1
 
 	for i:= 1 to COUNT_SCHOOLBOYS do  
 	begin  
